@@ -42,11 +42,11 @@
 </div>
 
 > [!IMPORTANT]
-> **License Notice**  
+> **License Notice**
 > This codebase and its associated model weights are released under **[FISH AUDIO RESEARCH LICENSE](LICENSE)**. Please refer to [LICENSE](LICENSE) for more details. We will take action against any violation of the license.
 
 > [!WARNING]
-> **Legal Disclaimer**  
+> **Legal Disclaimer**
 > We do not hold any responsibility for any illegal usage of the codebase. Please refer to your local laws about DMCA and other related laws.
 
 ## Quick Start
@@ -186,12 +186,12 @@ For SGLang Server usage, please refer to the [SGLang-Omni README](https://github
 }
 
 @misc{liao2026fishaudios2technical,
-      title={Fish Audio S2 Technical Report}, 
+      title={Fish Audio S2 Technical Report},
       author={Shijia Liao and Yuxuan Wang and Songting Liu and Yifan Cheng and Ruoyi Zhang and Tianyu Li and Shidong Li and Yisheng Zheng and Xingwei Liu and Qingzheng Wang and Zhizhuo Zhou and Jiahua Liu and Xin Chen and Dawei Han},
       year={2026},
       eprint={2603.08823},
       archivePrefix={arXiv},
       primaryClass={cs.SD},
-      url={https://arxiv.org/abs/2603.08823}, 
+      url={https://arxiv.org/abs/2603.08823},
 }
 ```
