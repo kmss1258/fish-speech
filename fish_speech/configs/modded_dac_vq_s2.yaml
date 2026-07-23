@@ -1,0 +1,14 @@
+defaults:
+  - modded_dac_vq
+  - _self_
+
+transformer_general_config:
+  block_size: 16384
+
+quantizer:
+  post_module:
+    config:
+      block_size: 4096
+  pre_module:
+    config:
+      block_size: 4096
